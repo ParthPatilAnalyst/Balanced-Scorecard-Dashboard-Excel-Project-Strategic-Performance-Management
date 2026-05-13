@@ -1,0 +1,2 @@
+# Balanced-Scorecard-Dashboard-Excel-Project-Strategic-Performance-Management
+A production-grade Balanced Scorecard (BSC) analytics project measuring strategic performance across 4 U.S. states and 4 BSC perspectives — Finance, Customer, Operations, and Resources — tracking $56.84M in annual sales, 42,262 calls, 3,158 customers, and 75+ staff headcount through a fully dynamic, state-filterable executive dashboard.
