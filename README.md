@@ -8,6 +8,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > A production-grade **Balanced Scorecard (BSC)** analytics project measuring strategic performance across **4 U.S. states** and **4 BSC perspectives** — Finance, Customer, Operations, and Resources — tracking $56.84M in annual sales, 42,262 calls, 3,158 customers, and 75+ staff headcount through a fully dynamic, state-filterable executive dashboard.
+>
+>
+> ![image alt](https://github.com/ParthPatilAnalyst/Balanced-Scorecard-Dashboard-Excel-Project-Strategic-Performance-Management/blob/97ea6b9aa4d29f6dfe8cc70756932612ed047e65/Screenshot%202026-05-13%20100528.png)
 
 ---
 
